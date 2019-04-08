@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "gitpanel_jwtPrivateKey",
+  "db": "hakanerdemtemiz_gitpanel_db"
+}

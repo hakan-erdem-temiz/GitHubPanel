@@ -1,0 +1,7 @@
+{
+  "name": "GitPanel App",
+  "jwtPrivateKey": "",
+  "db": "mongodb://localhost/hakanerdemtemiz_gitpanel",
+  "port": "3900",
+  "requiresAuth": false
+}

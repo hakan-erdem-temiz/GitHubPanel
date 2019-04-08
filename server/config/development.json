@@ -1,0 +1,6 @@
+{
+  "name": "GitPanel App - Development",
+  "jwtPrivateKey": "gitpanel_jwtPrivateKey",
+  "port": "3900",
+  "requiresAuth": false
+}
